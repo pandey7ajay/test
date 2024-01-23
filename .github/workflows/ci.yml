@@ -40,4 +40,4 @@ jobs:
           echo
           dotnet --version
           echo
-          curl -x https://api.ipify.org/
+          curl https://api.ipify.org/
