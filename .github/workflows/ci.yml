@@ -35,3 +35,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           git --version
+          echo 
+          java -version
+          echo
+          dotnet --version
+          echo
+          curl -x https://api.ipify.org/
